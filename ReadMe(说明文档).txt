@@ -1,20 +1,20 @@
-ÎÄ¼þ¼ÐËµÃ÷£º
-SCUC_dat:¼ÆËãÊý¾Ý¡£
-Picture£ºÒ»Ð©Êý¾Ý½á¹ûÍ¼±í¡£
+æ–‡ä»¶å¤¹è¯´æ˜Žï¼š
+SCUC_dat:è®¡ç®—æ•°æ®ã€‚
+Pictureï¼šä¸€äº›æ•°æ®ç»“æžœå›¾è¡¨ã€‚
 
 
-º¯ÊýÎÄ¼þËµÃ÷£º
-DCOPF_ADMM£ºÖ÷º¯Êý
-ReadDataSCUC£º¶ÁÈ¡Êý¾Ý¡£
-SCUC_nodeY:ÐÎ³Éµ¼ÄÉ¾ØÕó¡£
-partitionNode£º·ÖÇøÉè¶¨¡£
-partitionDataPI£ºÊ¶±ðñîºÏ½ÚµãºÍñîºÏÖ§Â·¡£
-formMatrixA£ºµÈÊ½Ô¼Êø¡£
-formMatrixM£º²»µÈÊ½Ô¼Êø¡£
-formQC4Emission£º¶ÔÅÅ·ÅÔ¼Êø°´ÕÕÆ¬Çø»®·Ö¡£
-yanZheng£º²»·ÖÇøµ÷ÓÃCplexÇó½â£¬×÷Îª²ÎÕÕÖµ¡£
-formQCP_PI_x_i£ºCplexÇó½âËùÐèµÄ¾ØÕó¡£
-PrintRE£º»­Í¼Àý×Ó¡£
+å‡½æ•°æ–‡ä»¶è¯´æ˜Žï¼š
+DCOPF_ADMMï¼šä¸»å‡½æ•°
+ReadDataSCUCï¼šè¯»å–æ•°æ®ã€‚
+SCUC_nodeY:å½¢æˆå¯¼çº³çŸ©é˜µã€‚
+partitionNodeï¼šåˆ†åŒºè®¾å®šã€‚
+partitionDataPIï¼šè¯†åˆ«è€¦åˆèŠ‚ç‚¹å’Œè€¦åˆæ”¯è·¯ã€‚
+formMatrixAï¼šç­‰å¼çº¦æŸã€‚
+formMatrixMï¼šä¸ç­‰å¼çº¦æŸã€‚
+formQC4Emissionï¼šå¯¹æŽ’æ”¾çº¦æŸæŒ‰ç…§ç‰‡åŒºåˆ’åˆ†ã€‚
+yanZhengï¼šä¸åˆ†åŒºè°ƒç”¨Cplexæ±‚è§£ï¼Œä½œä¸ºå‚ç…§å€¼ã€‚
+formQCP_PI_x_iï¼šCplexæ±‚è§£æ‰€éœ€çš„çŸ©é˜µã€‚
+PrintREï¼šç”»å›¾ä¾‹å­ã€‚
 
-
+For more detail:http://www.optimization-online.org/DB_HTML/2018/05/6638.html
 
