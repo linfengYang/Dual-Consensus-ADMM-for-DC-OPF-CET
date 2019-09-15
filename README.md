@@ -15,6 +15,11 @@ What about this project/study?（项目介绍）
     the scale of power systems. An excellent subsystem partition strategy cound enhance the convergence performance
     , since it has less global variables.
 
+    [6] A. Kargarian, J. Mohammadi, J. Guo, S. Chakrabarti, M. Barati, G. Hug, S. Kar and R. Baldick, 
+        “Toward Distributed/Decentralized DC Optimal Power Flow Implementationin Future Electric Power Systems,”
+        IEEE Trans. Smart Grid, 2016.
+    [7] Y. Wang, L. Wu and S. Wang, “A Fully-Decentralized Consensus-Based ADMM Approach for DC-OPF With Demand Response,”
+        IEEE Trans. Smart Grid, vol. 8, no. 6, pp. 2637-2647, Nov. 2017.
 
 
 User Guide（用户指南）
