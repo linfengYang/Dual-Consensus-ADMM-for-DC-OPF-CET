@@ -3,7 +3,7 @@
 
 What about this project/study?（项目介绍）
 
-      The implementation code is using alternating direction method of multipliers (ADMM) approach for solving 
+      This study is using alternating direction method of multipliers (ADMM) approach for solving 
     the direct current dynamic optimal power flow with carbon emission trading (DC-DOPF-CET) problem.
     In this study, we focus on the impact of parameter rou and miu, the number of elements in the 
     consensus variable, the number of subsystems and the scale of power systems on the convergence 
